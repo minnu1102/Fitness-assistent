@@ -1,4 +1,8 @@
 langchain
 openai
 python-dotenv
- 
+streamlit
+google-generativeai
+pandas
+numpy
+requests
