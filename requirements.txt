@@ -1,8 +1,9 @@
 langchain
 openai
+streamlit==1.38.0
+google-generativeai==0.7.2
+protobuf==4.25.3
 python-dotenv
-streamlit
-google-generativeai
+requests
 pandas
 numpy
-requests
